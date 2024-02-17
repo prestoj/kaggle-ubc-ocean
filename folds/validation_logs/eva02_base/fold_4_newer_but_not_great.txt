@@ -1,0 +1,264 @@
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 0
+plurality_accuracy: 0.1808080808080808
+logit_sum_accuracy: 0.17517171717171717
+prob_sum_accuracy: 0.17517171717171717
+log_prob_sum_accuracy: 0.17517171717171717
+one_minus_log_prob_sum_accuracy: 0.18426262626262627
+rp_accuracy: 0.17517171717171717
+star_accuracy: 0.19284848484848488
+instant_runoff_accuracy: 0.1973939393939394
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 2000
+plurality_accuracy: 0.2605252525252525
+logit_sum_accuracy: 0.24284848484848487
+prob_sum_accuracy: 0.24284848484848487
+log_prob_sum_accuracy: 0.24284848484848487
+one_minus_log_prob_sum_accuracy: 0.2696161616161616
+rp_accuracy: 0.24284848484848487
+star_accuracy: 0.23830303030303032
+instant_runoff_accuracy: 0.27820202020202023
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 4000
+plurality_accuracy: 0.580121212121212
+logit_sum_accuracy: 0.6006666666666666
+prob_sum_accuracy: 0.6006666666666666
+log_prob_sum_accuracy: 0.6006666666666666
+one_minus_log_prob_sum_accuracy: 0.6061212121212121
+rp_accuracy: 0.6006666666666666
+star_accuracy: 0.5926666666666668
+instant_runoff_accuracy: 0.580121212121212
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 6000
+plurality_accuracy: 0.6990707070707071
+logit_sum_accuracy: 0.7196161616161616
+prob_sum_accuracy: 0.7196161616161616
+log_prob_sum_accuracy: 0.7196161616161616
+one_minus_log_prob_sum_accuracy: 0.7212929292929292
+rp_accuracy: 0.7196161616161616
+star_accuracy: 0.7150707070707071
+instant_runoff_accuracy: 0.7105252525252526
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 8000
+plurality_accuracy: 0.7144848484848485
+logit_sum_accuracy: 0.7492525252525252
+prob_sum_accuracy: 0.7492525252525252
+log_prob_sum_accuracy: 0.7492525252525252
+one_minus_log_prob_sum_accuracy: 0.7492525252525252
+rp_accuracy: 0.7492525252525252
+star_accuracy: 0.7073939393939395
+instant_runoff_accuracy: 0.7296161616161616
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 10000
+plurality_accuracy: 0.7721616161616162
+logit_sum_accuracy: 0.7756161616161616
+prob_sum_accuracy: 0.7756161616161616
+log_prob_sum_accuracy: 0.7756161616161616
+one_minus_log_prob_sum_accuracy: 0.7998383838383838
+rp_accuracy: 0.7756161616161616
+star_accuracy: 0.7801616161616162
+instant_runoff_accuracy: 0.7630707070707071
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 12000
+plurality_accuracy: 0.8029292929292928
+logit_sum_accuracy: 0.8366060606060606
+prob_sum_accuracy: 0.8366060606060606
+log_prob_sum_accuracy: 0.8366060606060606
+one_minus_log_prob_sum_accuracy: 0.8466060606060607
+rp_accuracy: 0.8366060606060606
+star_accuracy: 0.7838383838383838
+instant_runoff_accuracy: 0.7838383838383838
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 14000
+plurality_accuracy: 0.8151515151515152
+logit_sum_accuracy: 0.8331515151515152
+prob_sum_accuracy: 0.8331515151515152
+log_prob_sum_accuracy: 0.8331515151515152
+one_minus_log_prob_sum_accuracy: 0.8466060606060607
+rp_accuracy: 0.8331515151515152
+star_accuracy: 0.8266060606060606
+instant_runoff_accuracy: 0.814060606060606
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 16000
+plurality_accuracy: 0.8106060606060606
+logit_sum_accuracy: 0.8411515151515152
+prob_sum_accuracy: 0.8411515151515152
+log_prob_sum_accuracy: 0.8411515151515152
+one_minus_log_prob_sum_accuracy: 0.8511515151515152
+rp_accuracy: 0.8411515151515152
+star_accuracy: 0.8095151515151515
+instant_runoff_accuracy: 0.814060606060606
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 18000
+plurality_accuracy: 0.8331515151515152
+logit_sum_accuracy: 0.8511515151515152
+prob_sum_accuracy: 0.8511515151515152
+log_prob_sum_accuracy: 0.8511515151515152
+one_minus_log_prob_sum_accuracy: 0.8511515151515152
+rp_accuracy: 0.8511515151515152
+star_accuracy: 0.822060606060606
+instant_runoff_accuracy: 0.8095151515151515
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Loading pretrained weights from Hugging Face hub (timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k)
+[timm/eva02_base_patch14_448.mim_in22k_ft_in22k_in1k] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+idx: 0
+idx: 10
+idx: 20
+idx: 30
+idx: 40
+idx: 50
+idx: 60
+idx: 70
+idx: 80
+idx: 90
+idx: 100
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+step: 20000
+plurality_accuracy: 0.8286060606060606
+logit_sum_accuracy: 0.8431515151515152
+prob_sum_accuracy: 0.8431515151515152
+log_prob_sum_accuracy: 0.8431515151515152
+one_minus_log_prob_sum_accuracy: 0.8511515151515152
+rp_accuracy: 0.8431515151515152
+star_accuracy: 0.8275151515151515
+instant_runoff_accuracy: 0.814969696969697
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
